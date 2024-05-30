@@ -1,25 +1,28 @@
 {
   "files": {
     "main.css": "/Min_extreme/static/css/main.ed3dd214.css",
-    "main.js": "/Min_extreme/static/js/main.ac4269a9.js",
+    "main.js": "/Min_extreme/static/js/main.383ded48.js",
     "static/js/453.b3f36932.chunk.js": "/Min_extreme/static/js/453.b3f36932.chunk.js",
+    "static/media/rightcolor.png": "/Min_extreme/static/media/rightcolor.4379692941a8c3ed076f.png",
+    "static/media/leftcolor.png": "/Min_extreme/static/media/leftcolor.a7fcbcc34dfb331c7955.png",
+    "static/media/Group 33.png": "/Min_extreme/static/media/Group 33.6bf967b0ef91d53f8c3d.png",
     "static/media/bit.png": "/Min_extreme/static/media/bit.50ee2a696b53b23f1b30.png",
     "static/media/zcoin.png": "/Min_extreme/static/media/zcoin.b06322d65724c673f347.png",
-    "static/media/bitcoin.png": "/Min_extreme/static/media/bitcoin.a3cdbbfbfc2d96c410eb.png",
+    "static/media/hero-bg.png": "/Min_extreme/static/media/hero-bg.7827f87c8dd5fdfba3ff.png",
+    "static/media/chart.png": "/Min_extreme/static/media/chart.4dff6191c06b27d7dda2.png",
     "static/media/filecoin.png": "/Min_extreme/static/media/filecoin.bb6aa10f075f45363202.png",
     "static/media/bitsika.png": "/Min_extreme/static/media/bitsika.dc02325ce0eb9538dee8.png",
-    "static/media/purple wave.jpg": "/Min_extreme/static/media/purple wave.428a2b10f7e1747c15a9.jpg",
     "static/media/binance.png": "/Min_extreme/static/media/binance.18e207be2a72d978e865.png",
     "static/media/tcoin.png": "/Min_extreme/static/media/tcoin.2dca08a7ef4ffa90f505.png",
     "static/media/ethereum.png": "/Min_extreme/static/media/ethereum.5a16c8f73414ec94fab2.png",
-    "static/media/logo.png": "/Min_extreme/static/media/logo.6cb3709dff1487c3f2fb.png",
+    "static/media/minelogo.png": "/Min_extreme/static/media/minelogo.8e750185fd2d582d2e0f.png",
     "index.html": "/Min_extreme/index.html",
     "main.ed3dd214.css.map": "/Min_extreme/static/css/main.ed3dd214.css.map",
-    "main.ac4269a9.js.map": "/Min_extreme/static/js/main.ac4269a9.js.map",
+    "main.383ded48.js.map": "/Min_extreme/static/js/main.383ded48.js.map",
     "453.b3f36932.chunk.js.map": "/Min_extreme/static/js/453.b3f36932.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ed3dd214.css",
-    "static/js/main.ac4269a9.js"
+    "static/js/main.383ded48.js"
   ]
 }
