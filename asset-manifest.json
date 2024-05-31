@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Min_extreme/static/css/main.ed3dd214.css",
-    "main.js": "/Min_extreme/static/js/main.2a28b09d.js",
+    "main.js": "/Min_extreme/static/js/main.e1f92ac9.js",
     "static/js/453.b3f36932.chunk.js": "/Min_extreme/static/js/453.b3f36932.chunk.js",
     "static/media/rightcolor.png": "/Min_extreme/static/media/rightcolor.4379692941a8c3ed076f.png",
     "static/media/leftcolor.png": "/Min_extreme/static/media/leftcolor.a7fcbcc34dfb331c7955.png",
@@ -9,7 +9,6 @@
     "static/media/bit.png": "/Min_extreme/static/media/bit.50ee2a696b53b23f1b30.png",
     "static/media/zcoin.png": "/Min_extreme/static/media/zcoin.b06322d65724c673f347.png",
     "static/media/hero-bg.png": "/Min_extreme/static/media/hero-bg.7827f87c8dd5fdfba3ff.png",
-    "static/media/chart.png": "/Min_extreme/static/media/chart.4dff6191c06b27d7dda2.png",
     "static/media/filecoin.png": "/Min_extreme/static/media/filecoin.bb6aa10f075f45363202.png",
     "static/media/bitsika.png": "/Min_extreme/static/media/bitsika.dc02325ce0eb9538dee8.png",
     "static/media/binance.png": "/Min_extreme/static/media/binance.18e207be2a72d978e865.png",
@@ -18,11 +17,11 @@
     "static/media/minelogo.png": "/Min_extreme/static/media/minelogo.8e750185fd2d582d2e0f.png",
     "index.html": "/Min_extreme/index.html",
     "main.ed3dd214.css.map": "/Min_extreme/static/css/main.ed3dd214.css.map",
-    "main.2a28b09d.js.map": "/Min_extreme/static/js/main.2a28b09d.js.map",
+    "main.e1f92ac9.js.map": "/Min_extreme/static/js/main.e1f92ac9.js.map",
     "453.b3f36932.chunk.js.map": "/Min_extreme/static/js/453.b3f36932.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ed3dd214.css",
-    "static/js/main.2a28b09d.js"
+    "static/js/main.e1f92ac9.js"
   ]
 }
